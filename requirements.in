@@ -1,5 +1,5 @@
 asn1==2.2.0 # asn1 2.3.0 introduces enum34 as a dependency, which causes problems on some envs
-cryptography==2.8.0
+cryptography==3.2
 cffi==1.14.3
 future==0.18.2
 itsdangerous==1.1.0
